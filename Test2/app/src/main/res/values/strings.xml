@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Test2</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_party">Party</string>
+    <string name="title_activity_partieslist">Partieslist</string>
+    <string name="title_activity_mainmenu">Mainmenu</string>
+    <string name="title_activity_user_profile">UserProfile</string>
+    <string name="title_activity_host_user">HostUser</string>
+    <string name="title_activity_feed">Feed</string>
+    <string name="title_activity_edit_user_profile">EditUserProfile</string>
+    <string name="title_activity_edit_party">EditParty</string>
+    <string name="Alcohol_prompt">Alcohol bieng served</string>
+    <string-array name="Alcohol">
+        <item>Open Bar</item>
+        <item>Cash Bar</item>
+        <item>Bring Your Own</item>
+        <item>Kegger</item>
+        <item>Wine</item>
+        <item>None</item>
+    </string-array>
+    <string name="fun">lol</string>
+
+</resources>
